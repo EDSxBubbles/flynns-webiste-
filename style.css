@@ -1,8 +1,7 @@
 body {
-	font-family: 'stylish', sans-serif;
-	font-weight: 300;
-	color:blue;
 	
+font-family: 'Arvo', serif;
+color: orange;
 }
 
 h6,
@@ -11,9 +10,6 @@ h4,
 h3,
 h3,
 h2,
-h1 {
-	font-family: 'play',
-	sans-serif;
-	font-weight:500;
+h1,{
+	font-family: 'Play', sans-serif;
 }
-	
